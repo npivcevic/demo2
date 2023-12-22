@@ -2,4 +2,4 @@
 
 ## Hello Github!
 
-FeatureA changes!
+FeatureA changes.
